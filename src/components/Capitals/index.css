@@ -1,0 +1,43 @@
+.home {
+  background-color: #93c5fd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-container {
+  background-color: #f8fafc;
+  padding: 20px;
+  border-radius: 15px;
+  font-family: 'Roboto';
+}
+
+.heading {
+  color: #323f4b;
+}
+
+.country-selection {
+  cursor: pointer;
+  color: #000000;
+  font-weight: bold;
+  width: 120px;
+  height: 40px;
+  margin-right: 3px;
+}
+
+.option-item {
+  color: #323f4b;
+}
+
+.question-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.paragraph {
+  color: #1e293b;
+  font-weight: bold;
+  padding-left: 10px;
+}
